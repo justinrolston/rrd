@@ -1,5 +1,4 @@
 image: ruby:3.2
-
 pages:
   script:
     - gem install bundler
