@@ -4,3 +4,8 @@
 
 layout: home
 ---
+<h1>{{ site.posts.first.title }}</h1>
+{{ site.posts.first.content }}
+<hr>
+<br>
+<h2>Previous Articles</h2>
