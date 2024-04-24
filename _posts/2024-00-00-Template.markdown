@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Issue 10 - A.C.T.S of Prayer by N.L. Rolston"
-date:   2024-04-12 15:07:56 -0400
+title:  "Issue 7 - Sweet Fruit or Sour Grapes by Sarah Rolston"
+date:   2024-03-22 00:00:00 -0400
 categories: newsletter
-published: false
-
+canva: https://www.canva.com/design/DAGAPof6Hic/FAUIv1ynL99bHGC-2IQ_-g/view
 ---
-
-[Click here to see Issue 10](https://www.canva.com/design/DAGCISGPa8I/VQIvPDEezCFx65vmNx0tCA/view?utm_content=DAGCISGPa8I&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+{% include canva.html %}
