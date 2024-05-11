@@ -1,6 +1,7 @@
 image: ruby:3.2
 
 pages:
+  stage: deploy
   script:
     - gem install bundler
     - bundle install
