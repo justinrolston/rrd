@@ -4,9 +4,9 @@
 
 layout: default 
 ---
-<!-- Non issue message -->
+<!-- Non issue message 
 <h1 style="color:red;font-weight: bold;text-decoration:underline;text-align:center;">* NO NEW ISSUE THIS WEEK *</h1>
-
+-->
 <h1>{{ site.posts.first.title }}</h1>
 {{ site.posts.first.content }}
 <hr>
