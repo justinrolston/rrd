@@ -2,7 +2,6 @@
 layout: page 
 title: Articles
 permalink: /articles/
-order: 1
 ---
 <ul>
   {% for post in site.posts %}
