@@ -2,6 +2,7 @@
 layout: page 
 title: Swim Meets
 permalink: /swim/
+published: false
 ---
 <ul>
     <li>
