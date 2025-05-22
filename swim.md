@@ -2,29 +2,29 @@
 layout: page 
 title: Swim Meets
 permalink: /swim/
-published: false
+published: true
 ---
 <ul>
     <li>
-      <b>June 8 (SAT)</b> - Home Meet vs. Valley View
+      <b>June 7 (SAT)</b> - Home Meet vs. Granville
     </li>
     <li>
-      <b>June 12 (WED)</b> - Away Meet vs. Dresden
+      <b>June 14 (SAT)</b> - Home Meet vs. Pataskala
     </li>
     <li>
-      <b>June 22 (SAT)</b> - Home Meet vs. Baltimore
+      <b>June 18 (WED)</b> - Away Meet vs. Dresden
     </li>
     <li>
-      <b>June 29 (SAT)</b> - Home Meet vs. Tri-Meet
+      <b>June 28 (SAT)</b> - Home Meet vs. Tri-Meet
     </li>
     <li>
-      <b>July 6 (SAT)</b> - Home Meet vs. Johnstown
+      <b>July 2 (WED)</b> - Away Meet vs. Vally View
     </li>
     <li>
-      <b>July 13 (SAT)</b> - Away Meet vs. Groveport
+      <b>July 12 (SAT)</b> - Away Meet vs. Canal
     </li>
     <li>
-      <b>July 17 (WED)</b> - Away Meet vs. CHAMPS at Dresden
+      <b>July 16 (WED)</b> - Away Meet vs. CHAMPS at Dresden
     </li>
 </ul>
 
