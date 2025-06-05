@@ -6,25 +6,25 @@ published: true
 ---
 <ul>
     <li>
-      <b>June 7 (SAT)</b> - Home Meet vs. Granville
+      <b>June 7 (SAT) 8am</b> - Home Meet vs. Granville
     </li>
     <li>
-      <b>June 14 (SAT)</b> - Home Meet vs. Pataskala
+      <b>June 14 (SAT) 8am</b> - Home Meet vs. Pataskala
     </li>
     <li>
-      <b>June 18 (WED)</b> - Away Meet vs. Dresden
+      <b>June 18 (WED) 5:30pm</b> - Away Meet vs. Dresden
     </li>
     <li>
-      <b>June 28 (SAT)</b> - Home Meet vs. Tri-Meet
+      <b>June 28 (SAT) 7:15am</b> - Home Meet vs. Tri-Meet
     </li>
     <li>
-      <b>July 2 (WED)</b> - Away Meet vs. Vally View
+      <b>July 2 (WED) 5:30pm</b> - Away Meet vs. Vally View
     </li>
     <li>
-      <b>July 12 (SAT)</b> - Away Meet vs. Canal
+      <b>July 12 (SAT) 8am</b> - Away Meet vs. Canal
     </li>
     <li>
-      <b>July 16 (WED)</b> - Away Meet vs. CHAMPS at Dresden
+      <b>July 16 (WED) TBD</b> - Away Meet vs. CHAMPS at Dresden
     </li>
 </ul>
 <!--
