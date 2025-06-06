@@ -36,6 +36,7 @@ plugins:
   - jekyll-pdf-embed
   - jekyll-paginate
   - jekyll-paginate-multiple
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
