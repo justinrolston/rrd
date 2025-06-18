@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Site Overview
 
-This is a Jekyll blog called "Rolston Rundown" - a family newsletter site that displays embedded Canva designs. The site displays the latest newsletter issue on the homepage and provides an archive of all issues.
+This is a Jekyll blog called "The Rolstons" - a family newsletter site that displays embedded Canva designs. The site displays the latest newsletter issue on the homepage and provides an archive of all issues.
 
 ## Development Commands
 

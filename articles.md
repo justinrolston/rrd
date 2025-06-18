@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Articles
+title: Rolston Rundown
 permalink: /articles/
 ---
 <ul>

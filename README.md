@@ -1,9 +1,9 @@
-# Rolston Rundown
+# The Rolstons
 
 A Jekyll-powered family newsletter website that displays embedded Canva designs.
 
 ## Live Sites
-- **Primary**: https://rr.everydayhomeschooler.com/
+- **Primary**: https://therolstons.com/
 - **GitHub Pages**: https://justinrolston.github.io/rrd/
 
 ## Development
