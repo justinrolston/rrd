@@ -83,6 +83,3 @@ published: true
 - Wednesday: [2 Samuel 22](https://www.esv.org/2+Samuel+22/)
 - Thursday: [2 Samuel 23](https://www.esv.org/2+Samuel+23/)
 - Friday: [2 Samuel 24](https://www.esv.org/2+Samuel+24/)
-
-*This plan will take you through all 55 chapters of 1st and 2nd Samuel in 11 weeks, finishing on September 5th.*
-
