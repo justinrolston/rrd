@@ -2,7 +2,7 @@
 layout: page 
 title: Swim Meets
 permalink: /swim/
-published: true
+published: false
 ---
 
 ### June 

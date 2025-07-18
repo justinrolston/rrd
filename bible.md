@@ -7,27 +7,6 @@ published: true
 
 # Bible Reading Plan - 1 & 2 Samuel
 
-**Week June 30 - July 4**
-- Monday: [1 Samuel 6](https://www.esv.org/1+Samuel+6/)
-- Tuesday: [1 Samuel 7](https://www.esv.org/1+Samuel+7/)
-- Wednesday: [1 Samuel 8](https://www.esv.org/1+Samuel+8/)
-- Thursday: [1 Samuel 9](https://www.esv.org/1+Samuel+9/)
-- Friday: [1 Samuel 10](https://www.esv.org/1+Samuel+10/)
-
-**Week July 7-11**
-- Monday: [1 Samuel 11](https://www.esv.org/1+Samuel+11/)
-- Tuesday: [1 Samuel 12](https://www.esv.org/1+Samuel+12/)
-- Wednesday: [1 Samuel 13](https://www.esv.org/1+Samuel+13/)
-- Thursday: [1 Samuel 14](https://www.esv.org/1+Samuel+14/)
-- Friday: [1 Samuel 15](https://www.esv.org/1+Samuel+15/)
-
-**Week July 14-18**
-- Monday: [1 Samuel 16](https://www.esv.org/1+Samuel+16/)
-- Tuesday: [1 Samuel 17](https://www.esv.org/1+Samuel+17/)
-- Wednesday: [1 Samuel 18](https://www.esv.org/1+Samuel+18/)
-- Thursday: [1 Samuel 19](https://www.esv.org/1+Samuel+19/)
-- Friday: [1 Samuel 20](https://www.esv.org/1+Samuel+20/)
-
 **Week July 21-25**
 - Monday: [1 Samuel 21](https://www.esv.org/1+Samuel+21/)
 - Tuesday: [1 Samuel 22](https://www.esv.org/1+Samuel+22/)
