@@ -7,13 +7,6 @@ published: true
 
 # Bible Reading Plan - 1 & 2 Samuel
 
-**Week July 21-25**
-- Monday: [1 Samuel 21](https://www.esv.org/1+Samuel+21/)
-- Tuesday: [1 Samuel 22](https://www.esv.org/1+Samuel+22/)
-- Wednesday: [1 Samuel 23](https://www.esv.org/1+Samuel+23/)
-- Thursday: [1 Samuel 24](https://www.esv.org/1+Samuel+24/)
-- Friday: [1 Samuel 25](https://www.esv.org/1+Samuel+25/)
-
 **Week July 28 - August 1**
 - Monday: [1 Samuel 26](https://www.esv.org/1+Samuel+26/)
 - Tuesday: [1 Samuel 27](https://www.esv.org/1+Samuel+27/)
