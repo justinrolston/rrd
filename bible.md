@@ -7,20 +7,6 @@ published: true
 
 # Bible Reading Plan - 1 & 2 Samuel
 
-**Week July 28 - August 1**
-- Monday: [1 Samuel 26](https://www.esv.org/1+Samuel+26/)
-- Tuesday: [1 Samuel 27](https://www.esv.org/1+Samuel+27/)
-- Wednesday: [1 Samuel 28](https://www.esv.org/1+Samuel+28/)
-- Thursday: [1 Samuel 29](https://www.esv.org/1+Samuel+29/)
-- Friday: [1 Samuel 30](https://www.esv.org/1+Samuel+30/)
-
-**Week August 4-8**
-- Monday: [1 Samuel 31](https://www.esv.org/1+Samuel+31/)
-- Tuesday: [2 Samuel 1](https://www.esv.org/2+Samuel+1/)
-- Wednesday: [2 Samuel 2](https://www.esv.org/2+Samuel+2/)
-- Thursday: [2 Samuel 3](https://www.esv.org/2+Samuel+3/)
-- Friday: [2 Samuel 4](https://www.esv.org/2+Samuel+4/)
-
 **Week August 11-15**
 - Monday: [2 Samuel 5](https://www.esv.org/2+Samuel+5/)
 - Tuesday: [2 Samuel 6](https://www.esv.org/2+Samuel+6/)
