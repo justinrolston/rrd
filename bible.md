@@ -7,20 +7,6 @@ published: true
 
 # Bible Reading Plan - 1 & 2 Kings
 
-**Week September 8-12**
-- Monday: [1 Kings 1](https://www.esv.org/1+Kings+1/)
-- Tuesday: [1 Kings 2](https://www.esv.org/1+Kings+2/)
-- Wednesday: [1 Kings 3](https://www.esv.org/1+Kings+3/)
-- Thursday: [1 Kings 4](https://www.esv.org/1+Kings+4/)
-- Friday: [1 Kings 5](https://www.esv.org/1+Kings+5/)
-
-**Week September 15-19**
-- Monday: [1 Kings 6](https://www.esv.org/1+Kings+6/)
-- Tuesday: [1 Kings 7](https://www.esv.org/1+Kings+7/)
-- Wednesday: [1 Kings 8](https://www.esv.org/1+Kings+8/)
-- Thursday: [1 Kings 9](https://www.esv.org/1+Kings+9/)
-- Friday: [1 Kings 10](https://www.esv.org/1+Kings+10/)
-
 **Week September 22-26**
 - Monday: [1 Kings 11](https://www.esv.org/1+Kings+11/)
 - Tuesday: [1 Kings 12](https://www.esv.org/1+Kings+12/)
