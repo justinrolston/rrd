@@ -34,10 +34,12 @@ published: true
 - Thursday: [Psalm 116](https://www.esv.org/Psalm+116/)
 - Friday: [Psalm 118](https://www.esv.org/Psalm+118/)
 
-### Week November 24-26
+### Week November 24-28
 - Monday: [Psalm 136](https://www.esv.org/Psalm+136/)
 - Tuesday: [Psalm 145](https://www.esv.org/Psalm+145/)
 - Wednesday: [Psalm 146](https://www.esv.org/Psalm+146/)
+- Thursday: [Psalm 95](https://www.esv.org/Psalm+95/)
+- Friday: [Psalm 147](https://www.esv.org/Psalm+147/)
 
 ### Week December 1-5
 - Monday: [Psalm 147](https://www.esv.org/Psalm+147/)
@@ -60,7 +62,7 @@ published: true
 - Thursday: [Psalm 89:1-18](https://www.esv.org/Psalm+89:1-18/)
 - Friday: [Psalm 89:19-52](https://www.esv.org/Psalm+89:19-52/)
 
-### Week December 22-25
+### Week December 22-26
 - Monday: [Psalm 40](https://www.esv.org/Psalm+40/)
 - Tuesday: [Psalm 80](https://www.esv.org/Psalm+80/)
 - Wednesday: [Psalm 130](https://www.esv.org/Psalm+130/)
