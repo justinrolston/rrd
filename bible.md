@@ -65,3 +65,4 @@ published: true
 - Tuesday: [Psalm 80](https://www.esv.org/Psalm+80/)
 - Wednesday: [Psalm 130](https://www.esv.org/Psalm+130/)
 - Thursday: [Psalm 8](https://www.esv.org/Psalm+8/)
+- Friday: [Psalm 67](https://www.esv.org/Psalm+67/)
