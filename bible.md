@@ -7,27 +7,6 @@ published: true
 
 ## Bible Reading Plan - Psalms (Thanksgiving & Advent)
 
-### Week November 17-21
-- Monday: [Psalm 100](https://www.esv.org/Psalm+100/)
-- Tuesday: [Psalm 103](https://www.esv.org/Psalm+103/)
-- Wednesday: [Psalm 107](https://www.esv.org/Psalm+107/)
-- Thursday: [Psalm 116](https://www.esv.org/Psalm+116/)
-- Friday: [Psalm 118](https://www.esv.org/Psalm+118/)
-
-### Week November 24-28
-- Monday: [Psalm 136](https://www.esv.org/Psalm+136/)
-- Tuesday: [Psalm 145](https://www.esv.org/Psalm+145/)
-- Wednesday: [Psalm 146](https://www.esv.org/Psalm+146/)
-- Thursday: [Psalm 95](https://www.esv.org/Psalm+95/)
-- Friday: [Psalm 147](https://www.esv.org/Psalm+147/)
-
-### Week December 1-5
-- Monday: [Psalm 147](https://www.esv.org/Psalm+147/)
-- Tuesday: [Psalm 148](https://www.esv.org/Psalm+148/)
-- Wednesday: [Psalm 150](https://www.esv.org/Psalm+150/)
-- Thursday: [Psalm 24](https://www.esv.org/Psalm+24/)
-- Friday: [Psalm 2](https://www.esv.org/Psalm+2/)
-
 ### Week December 8-12
 - Monday: [Psalm 72](https://www.esv.org/Psalm+72/)
 - Tuesday: [Psalm 110](https://www.esv.org/Psalm+110/)
