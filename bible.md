@@ -8,20 +8,6 @@ published: true
 # 2026 New Testament Reading Plan
 **Monday-Friday | Thematic Order | One Year**
 
-### Week January 05 - 09
-- Monday: [Matthew 1](https://www.esv.org/Matthew+1/)
-- Tuesday: [Matthew 2](https://www.esv.org/Matthew+2/)
-- Wednesday: [Matthew 3](https://www.esv.org/Matthew+3/)
-- Thursday: [Matthew 4](https://www.esv.org/Matthew+4/)
-- Friday: [Matthew 5](https://www.esv.org/Matthew+5/)
-
-### Week January 12 - 16
-- Monday: [Matthew 6](https://www.esv.org/Matthew+6/)
-- Tuesday: [Matthew 7](https://www.esv.org/Matthew+7/)
-- Wednesday: [Matthew 8](https://www.esv.org/Matthew+8/)
-- Thursday: [Matthew 9](https://www.esv.org/Matthew+9/)
-- Friday: [Matthew 10](https://www.esv.org/Matthew+10/)
-
 ### Week January 19 - 23
 - Monday: [Matthew 11](https://www.esv.org/Matthew+11/)
 - Tuesday: [Matthew 12](https://www.esv.org/Matthew+12/)
