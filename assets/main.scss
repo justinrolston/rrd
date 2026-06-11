@@ -1,0 +1,296 @@
+---
+# Local override of the minima theme stylesheet.
+# Jekyll uses this file instead of the theme's assets/main.scss.
+---
+
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..700&family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..500&display=swap');
+
+// ===== Palette: warm family broadsheet =====
+$paper:            #f5efe3; // warm cream
+$ink:              #23201a; // warm near-black
+$brick:            #a8432a; // accent — masthead rule & links
+$brick-dark:       #87341f;
+$rule:             #d8cdb8; // hairline rules
+
+$display-font: "Playfair Display", "Iowan Old Style", Georgia, serif;
+$body-font:    "Newsreader", Georgia, "Times New Roman", serif;
+
+// ===== Minima variable overrides (must precede the import) =====
+$base-font-family:  $body-font;
+$base-font-size:    20px;
+$base-font-weight:  400;
+$small-font-size:   16px;
+$base-line-height:  1.7;
+$spacing-unit:      34px;
+
+$text-color:        $ink;
+$background-color:  $paper;
+$brand-color:       $brick;
+
+$grey-color:        #6f675c;
+$grey-color-light:  $rule;
+$grey-color-dark:   #2a251f;
+
+$content-width:     740px;
+$on-palm:           600px;
+$on-laptop:         820px;
+
+@import "minima";
+
+// ===================================================================
+//  Custom editorial styling
+// ===================================================================
+
+body {
+  background-color: $paper;
+  // subtle paper texture via layered washes
+  background-image:
+    radial-gradient(circle at 18% 12%, rgba(168, 67, 42, 0.04), transparent 42%),
+    radial-gradient(circle at 85% 8%, rgba(120, 90, 30, 0.05), transparent 46%);
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $display-font;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: $ink;
+}
+
+a {
+  color: $brick;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  &:visited { color: $brick; }
+  &:hover   { color: $brick-dark; }
+}
+
+// ---- Masthead / nameplate ------------------------------------------
+.site-header {
+  border-top: 5px solid $ink;
+  border-bottom: 1px solid $ink;
+  background: transparent;
+  position: relative;
+  min-height: 0;
+  // thin secondary rule for the classic double-rule look
+  box-shadow: inset 0 -4px 0 -3px $brick;
+}
+
+.site-header .wrapper {
+  padding-top: 26px;
+  padding-bottom: 22px;
+}
+
+.site-title {
+  font-family: $display-font;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-size: 2.9rem;
+  line-height: 0.95;
+  letter-spacing: -0.02em;
+  color: $ink !important;
+  margin-bottom: 0;
+
+  &::after {
+    content: "A Rolston family dispatch";
+    display: block;
+    font-family: $body-font;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 0.92rem;
+    letter-spacing: 0.04em;
+    color: $grey-color;
+    margin-top: 6px;
+  }
+}
+
+// Center the nameplate on tablet/desktop; keep minima's mobile menu below 600px
+@media screen and (min-width: 600px) {
+  .site-header .wrapper { text-align: center; }
+
+  .site-title {
+    float: none;
+    display: inline-block;
+  }
+
+  .site-nav {
+    float: none;
+    line-height: normal;
+    margin-top: 16px;
+    border: 0;
+    background: transparent;
+
+    .page-link {
+      font-family: $display-font;
+      font-weight: 500;
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      color: $ink;
+      margin: 0 14px;
+      padding-bottom: 2px;
+      border-bottom: 1px solid transparent;
+      transition: color 0.18s ease, border-color 0.18s ease;
+
+      &:hover {
+        color: $brick;
+        border-bottom-color: $brick;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+// ---- Page / post body ----------------------------------------------
+.page-content { padding-top: $spacing-unit * 1.2; }
+
+.post-title,
+.page-heading,
+.home h1:first-of-type {
+  font-weight: 700;
+  line-height: 1.08;
+  font-size: 2.4rem;
+  margin-bottom: 0.5em;
+}
+
+// Decorative drop-rule under the lead headline
+.home > h1:first-of-type,
+.post-title {
+  position: relative;
+  padding-bottom: 0.35em;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 64px;
+    height: 3px;
+    background: $brick;
+  }
+}
+
+.post-content,
+.page-content .wrapper {
+  p, li { font-size: 1.05rem; }
+}
+
+// ---- Archive / article list ----------------------------------------
+.page-content ul {
+  list-style: none;
+  margin-left: 0;
+
+  li {
+    padding: 0.55em 0;
+    border-bottom: 1px solid $rule;
+
+    a {
+      font-family: $display-font;
+      font-weight: 500;
+      font-size: 1.15rem;
+      text-decoration: none;
+      &:hover { text-decoration: underline; }
+    }
+  }
+}
+
+// Keep nested swim-schedule lists tidy (they shouldn't get the divider rule)
+.page-content ul ul li {
+  border-bottom: 0;
+  padding: 0.15em 0;
+  font-family: $body-font;
+}
+
+// ---- Canva embed framing -------------------------------------------
+.post-content > div:first-child,
+.page-content > .wrapper div[style*="padding-top"] {
+  border: 1px solid $rule;
+}
+
+// ---- Hero / inline post images -------------------------------------
+.post-hero {
+  display: block;
+  position: relative;
+  margin: 0.5em 0 1.6em;
+  text-decoration: none;
+  border: 1px solid $rule;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(35, 32, 26, 0.14);
+  line-height: 0;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: transform 0.5s cubic-bezier(0.2, 0.7, 0.2, 1);
+  }
+
+  &:hover img { transform: scale(1.02); }
+
+  .post-hero-caption {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 28px 16px 12px;
+    font-family: $body-font;
+    font-style: italic;
+    font-size: 0.92rem;
+    line-height: 1.3;
+    color: #fff;
+    background: linear-gradient(to top, rgba(20, 16, 12, 0.78), transparent);
+  }
+}
+
+// ---- Footer --------------------------------------------------------
+.site-footer {
+  border-top: 1px solid $ink;
+  box-shadow: inset 0 4px 0 -3px $brick;
+  background: transparent;
+  padding: $spacing-unit 0;
+  margin-top: $spacing-unit * 1.6;
+}
+
+.footer-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.footer-mark {
+  font-family: $display-font;
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: $ink;
+}
+
+.footer-copy {
+  font-size: 0.9rem;
+  color: $grey-color;
+  letter-spacing: 0.02em;
+}
+
+// ---- Page-load reveal ----------------------------------------------
+.site-header,
+.page-content {
+  animation: rise 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+.page-content { animation-delay: 0.08s; }
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .site-header,
+  .page-content { animation: none; }
+}

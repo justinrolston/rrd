@@ -25,15 +25,20 @@ bundle exec jekyll serve
 Local site: http://localhost:4000/
 
 ### Creating New Posts
-Use the provided Ruby script to generate newsletter posts:
+Use the provided Ruby script to generate newsletter posts.
 
+**Canva-embedded post:**
 ```bash
 ./create_post.rb "ISSUE_NUMBER" "POST_TITLE" "AUTHOR_NAME" "CANVA_DESIGN_URL"
 ```
-
 Example:
 ```bash
 ./create_post.rb "26" "Why do we put up a Christmas tree?" "MJ Rolston" "https://www.canva.com/design/DAGZwoAvrtM/uV51siXkaokLe3x9iTSW8g/view"
+```
+
+**Plain-text post (no Canva)** — scaffolds a Markdown body to write into:
+```bash
+./create_post.rb --text "ISSUE_NUMBER" "POST_TITLE" "AUTHOR_NAME"
 ```
 
 ## Architecture

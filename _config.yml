@@ -21,7 +21,7 @@
 title: The Rolstons
 #email: justinrolston@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  © 2025 The Rolstons
+  A Rolston family newsletter — dispatches, reading plans, and the latest issue.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://therolstons.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -35,6 +35,12 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
+
+# Pages shown in the top navigation (controls which appear and their order).
+# Omitting bible.md keeps the /bible/ page reachable but out of the nav.
+header_pages:
+  - articles.md
+  - swim.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

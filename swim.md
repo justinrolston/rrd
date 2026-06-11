@@ -6,7 +6,7 @@ published: true
 ---
 
 ### June
-- **Saturday, June 6** ✓
+- **Saturday, June 6**
   - Away vs. Pataskala
 - **Saturday, June 13** - 6:00 AM – 11:00 AM
   - Home vs. Granville & Canal *(first home meet of the season — Friday night set-up the day before)*

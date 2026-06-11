@@ -10,11 +10,16 @@ This is a Jekyll blog called "The Rolstons" - a family newsletter site that disp
 
 - **Start development server**: `bundle exec jekyll serve`
 - **Local URL**: http://localhost:4000/
-- **Create new post**: `./create_post.rb "ISSUE_NUMBER" "TITLE" "AUTHOR" "CANVA_LINK"`
+- **Create new Canva post**: `./create_post.rb "ISSUE_NUMBER" "TITLE" "AUTHOR" "CANVA_LINK"`
+- **Create new text post**: `./create_post.rb --text "ISSUE_NUMBER" "TITLE" "AUTHOR"`
 
 Example post creation:
 ```bash
+# Canva-embedded issue
 ./create_post.rb "26" "Why do we put up a Christmas tree?" "MJ Rolston" "https://www.canva.com/design/DAGZwoAvrtM/uV51siXkaokLe3x9iTSW8g/view"
+
+# Plain Markdown issue (no Canva)
+./create_post.rb --text "31" "A Note From the Editor" "Justin Rolston"
 ```
 
 ## Architecture
@@ -23,7 +28,8 @@ Example post creation:
 - Posts are stored in `_posts/` with filename format: `YYYY-MM-DD-issue-NUMBER.md`
 - Each post contains minimal front matter with a Canva link that gets embedded via the `canva.html` include
 - Posts use the `post` layout and `newsletter` category
-- Content is primarily the embedded Canva design via `{% include canva.html %}`
+- Canva posts have a `canva:` field and a body of `{% include canva.html %}`
+- Text posts omit the `canva:` field and put plain Markdown in the body; the two can also be mixed in one post
 
 ### Key Files
 - `create_post.rb`: Ruby script that generates new post files with proper front matter
