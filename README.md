@@ -39,9 +39,9 @@ Example:
 ## Architecture
 
 - **Posts**: Stored in `_posts/` with embedded Canva designs
-- **Theme**: jekyll-bootstrap-theme
+- **Theme**: minima
 - **Key Features**: Responsive Canva embeds, latest post on homepage, archive page
-- **Plugins**: jekyll-feed, jekyll-paginate, jekyll-redirect-from, jekyll-pdf-embed
+- **Plugins**: jekyll-feed, jekyll-paginate, jekyll-redirect-from
 
 ## Repository
 - **GitHub**: https://github.com/justinrolston/rrd

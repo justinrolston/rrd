@@ -33,12 +33,12 @@ Example post creation:
 - `latest.md`: Redirect page that forwards to the newest post
 
 ### Site Configuration
-- Uses `jekyll-bootstrap-theme` instead of default minima theme
-- Key plugins: jekyll-feed, jekyll-paginate, jekyll-redirect-from, jekyll-pdf-embed
+- Uses the `minima` theme (see `_config.yml`)
+- Plugins: jekyll-feed, jekyll-paginate, jekyll-redirect-from (pagination is currently disabled — `paginate` is commented out)
 - Site displays latest newsletter issue on homepage with embedded Canva design
 - Posts are date-ordered with issue numbers in titles
 
 ### Live Sites
-- Primary site: https://rr.everydayhomeschooler.com/
+- Primary site: https://therolstons.com/ (custom domain set via `CNAME` and `url` in `_config.yml`)
 - GitHub Pages: https://justinrolston.github.io/rrd/
 - GitHub repository: https://github.com/justinrolston/rrd

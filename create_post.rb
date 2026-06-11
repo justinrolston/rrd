@@ -4,7 +4,6 @@ require 'date'
 
 def create_post(issue, title, author, canva_link)
   date = Date.today
-  formatted_title = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
   filename = "_posts/#{date}-issue-#{issue}.md"
 
   content = <<~TEMPLATE

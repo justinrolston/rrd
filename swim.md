@@ -1,24 +1,26 @@
 ---
-layout: page 
+layout: page
 title: Swim Meets
 permalink: /swim/
-published: false
+published: true
 ---
 
-### June 
-- **Saturday, June 7** - 8:00 AM
-  - Home vs. Granville
-- **Saturday, June 14** - 8:00 AM
-  - Home vs. Pataskala
-- **Wednesday, June 18** - 5:30 PM
-  - Away vs. Dresden
-- **Saturday, June 28** - 7:15 AM
-  - Home vs. Tri-Meet
+### June
+- **Saturday, June 6** ✓
+  - Away vs. Pataskala
+- **Saturday, June 13** - 6:00 AM – 11:00 AM
+  - Home vs. Granville & Canal *(first home meet of the season — Friday night set-up the day before)*
+- **Wednesday, June 17** - 4:00 PM – 10:00 PM
+  - Away vs. Baltimore *(Picture Day 7:45 AM — no practice that morning)*
+- **Saturday, June 27** - 6:00 AM – 11:00 AM
+  - Home Tri-Meet *(5th-year anniversary — Tri-Meet shirts ordered)*
 
-### July 
-- **Wednesday, July 2** - 5:30 PM
-  - Away vs. Valley View
-- **Saturday, July 12** - 8:00 AM
-  - Away vs. Canal
-- **Wednesday, July 16** - TBD
-  - CHAMPS at Dresden
+### July
+- **Wednesday, July 1** - 4:00 PM – 10:00 PM
+  - Home vs. Dresden
+- **Saturday, July 4** - 9:00 AM – 11:00 AM
+  - Swim Parade
+- **Saturday, July 11** - 6:00 AM – 11:00 AM
+  - Away vs. Logan
+- **Wednesday, July 15** - All day
+  - CHAMPS at Dresden *(raindate Thursday, July 16)*
